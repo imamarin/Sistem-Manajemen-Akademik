@@ -1,0 +1,87 @@
+[06-Jul-2019 00:27:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/waroeng4/public_html/application/config/config.php on line 39
+[06-Jul-2019 00:41:18 America/Chicago] PHP Parse error:  syntax error, unexpected ''M_bansospribadi));' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/waroeng4/public_html/application/config/autoload.php on line 135
+[06-Jul-2019 00:41:32 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/waroeng4/public_html/application/config/autoload.php on line 135
+[06-Jul-2019 00:48:03 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/controllers/Login.php on line 29
+[06-Jul-2019 00:50:35 America/Chicago] PHP Fatal error:  Call to a member function get_all() on null in /home/waroeng4/public_html/application/views/admin/view_home.php on line 21
+[06-Jul-2019 01:06:29 America/Chicago] PHP Fatal error:  Call to a member function get_all() on null in /home/waroeng4/public_html/application/views/admin/view_home.php on line 21
+[06-Jul-2019 01:13:37 America/Chicago] PHP Fatal error:  Call to a member function get_all() on null in /home/waroeng4/public_html/application/views/admin/view_home.php on line 21
+[06-Jul-2019 01:15:00 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:15:47 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:18:02 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:18:45 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:21:00 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:22:56 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/warung/template.php on line 34
+[06-Jul-2019 01:23:40 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/warung/template.php on line 34
+[06-Jul-2019 01:28:41 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:29:24 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:29:25 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:29:26 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:29:48 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:33:27 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/mitra/template.php on line 34
+[06-Jul-2019 01:36:11 America/Chicago] PHP Fatal error:  Call to undefined method Template::warung() in /home/waroeng4/public_html/application/controllers/warung/Home.php on line 15
+[06-Jul-2019 01:36:31 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/warung/template.php on line 34
+[06-Jul-2019 01:36:34 America/Chicago] PHP Fatal error:  Call to a member function get_row() on null in /home/waroeng4/public_html/application/views/warung/template.php on line 34
+[29-Jul-2019 00:08:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/waroeng4/public_html/application/controllers/warung/Order.php on line 14
+[29-Jul-2019 00:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Order.php on line 16
+[29-Jul-2019 00:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/waroeng4/public_html/application/views/warung/view_order.php on line 31
+[29-Jul-2019 00:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/waroeng4/public_html/application/views/warung/view_order.php on line 31
+[29-Jul-2019 10:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/waroeng4/public_html/application/controllers/mitra/Home.php on line 45
+[29-Jul-2019 10:48:40 America/Chicago] PHP Fatal error:  Call to a member function get_like() on null in /home/waroeng4/public_html/application/controllers/mitra/Home.php on line 37
+[01-Aug-2019 11:43:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method m_user::update2() in /home/waroeng4/public_html/application/controllers/admin/Mitra.php on line 378
+[02-Aug-2019 13:51:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[02-Aug-2019 13:51:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[02-Aug-2019 13:51:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[02-Aug-2019 13:51:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[02-Aug-2019 13:58:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[02-Aug-2019 13:58:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/waroeng4/public_html/application/controllers/warung/Transaksi.php on line 117
+[17-Mar-2020 17:37:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/Login.php on line 104
+[18-Mar-2020 15:19:25 Asia/Jakarta] PHP Fatal error:  Call to a member function get_row() on null in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/admin/Home.php on line 18
+[18-Mar-2020 15:21:06 Asia/Jakarta] PHP Fatal error:  Call to a member function get_row() on null in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/admin/Home.php on line 18
+[18-Mar-2020 17:37:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/Login.php on line 132
+[19-Mar-2020 11:15:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 61
+[19-Mar-2020 11:15:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 61
+[19-Mar-2020 12:31:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function row() in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_add_tugas.php on line 71
+[19-Mar-2020 12:32:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function raw() in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_add_tugas.php on line 71
+[19-Mar-2020 12:45:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_add_tugas.php on line 71
+[19-Mar-2020 13:04:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[19-Mar-2020 13:04:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/siswa/view_dashboard_tugas.php on line 134
+[21-Mar-2020 07:18:08 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/smkypcs1/elearning.smk-ypc.sch.id/vendor/composer/../symfony/polyfill-ctype/bootstrap.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smkypcs1/elearning.smk-ypc.sch.id/vendor/composer/autoload_real.php on line 66
+[21-Mar-2020 07:18:09 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/smkypcs1/elearning.smk-ypc.sch.id/vendor/composer/../symfony/polyfill-ctype/bootstrap.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smkypcs1/elearning.smk-ypc.sch.id/vendor/composer/autoload_real.php on line 66
+[21-Mar-2020 07:55:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_modul.php on line 118
+[21-Mar-2020 10:15:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/Login.php on line 45
+[21-Mar-2020 16:35:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_list_tugas.php on line 71
+[21-Mar-2020 18:31:50 Asia/Jakarta] PHP Fatal error:  Call to undefined function sub_str() in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_list_tugas.php on line 66
+[21-Mar-2020 18:38:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_list_tugas.php on line 66
+[23-Mar-2020 12:33:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:33:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 12:34:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/siswa/Materi.php on line 77
+[23-Mar-2020 15:41:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:42:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:43:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:43:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:44:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:44:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:46:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:48:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 15:53:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/guru/Hasil.php on line 291
+[23-Mar-2020 18:30:43 Asia/Jakarta] PHP Fatal error:  Call to a member function get_row() on null in /home/smkypcs1/elearning.smk-ypc.sch.id/application/controllers/admin/Home.php on line 18
+[24-Mar-2020 16:39:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/smkypcs1/elearning.smk-ypc.sch.id/application/views/guru/view_add_tugas.php on line 146

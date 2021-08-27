@@ -1,0 +1,17 @@
+$fitur=array();
+        if(empty($this->session->iduser)){
+              redirect('login');
+        }else{
+          $pg2=$this->uri->segment(1)."/".$this->uri->segment(2);
+          $pg3=$this->uri->segment(1)."/".$this->uri->segment(2)."/".$this->uri->segment(3);
+          if(in_array($pg2, $this->session->page) || in_array($pg3, $this->session->page) || $pg2=="page/home" || $pg2== "page/hakakses"){
+            if(sha1($this->session->idlevel)=="2f71695bc4ed3b76609cc0968a9fbf488877a08c" || sha1($this->session->idlevel)=="688ca1ff2e3800eca1ebe3cfa9a03dd2c3ad27d2"){
+              if(sha1($this->session->kdguru)!="c6cc8eafb942329b2d432e814f4fc0d46c9ca88b" AND sha1($this->session->kdguru)!="88fde66f77bdc32ba14055f04c0efc72eef90ff5"){
+                $this->session->idlevel="OPR";
+              }
+            }
+          }else{
+            redirect('login');
+          }
+          
+        }
